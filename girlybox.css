@@ -1,12 +1,14 @@
 
 .box-one{
   background-color:blueviolet;
-  border: dashed;
-  padding: 1;
+  border: dashed 2mm;
+  float: center;
+  padding: 1cm;
 }
 .box-two{
   border: solid red;
   font-size: 50px;
   color:black;
+  padding:2cm;
   background-color: pink;
 }
