@@ -1,0 +1,12 @@
+
+.box-one{
+  background-color:blueviolet;
+  border: dashed;
+  padding: 1;
+}
+.box-two{
+  border: solid red;
+  font-size: 50px;
+  color:black;
+  background-color: pink;
+}
